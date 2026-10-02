@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseFlow - Modern Expense Tracker",
+  "description": "A clean, responsive personal expense tracker to record, organize, and analyze daily spending by category and date.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
